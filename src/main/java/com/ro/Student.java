@@ -13,6 +13,10 @@ public class Student {
         this.math=math;
     }
 
+    public Student() {
+
+    }
+
     public void print(){
         System.out.println(id+"\t"+name+"\t"+english+"\t"+math+"\t"+(english+math)/2);
     }
