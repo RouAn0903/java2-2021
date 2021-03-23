@@ -1,4 +1,4 @@
-package com.ro;
+package com.ro.stu;
 
 public class Student {
     String id;
