@@ -1,6 +1,6 @@
 package com.ro.stu;
 
-public class GraduateStudent extends Student {
+public class GraduateStudent extends Student implements Mailer{
 
     int thesis;
 
@@ -13,4 +13,7 @@ public class GraduateStudent extends Student {
         System.out.println(id+"\t"+name+"\t"+english+"\t"+math+"\t"+(english+math)/2+"\t"+thesis);
     }
 
+    public void mail() {
+
+    }
 }
