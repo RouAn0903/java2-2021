@@ -1,6 +1,6 @@
 package com.ro.stu;
 
-public class GraduateStudent extends Student implements Mailer{
+public class GraduateStudent extends Student {
 
     int thesis;
 
