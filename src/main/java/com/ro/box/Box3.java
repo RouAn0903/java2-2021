@@ -2,14 +2,14 @@ package com.ro.box;
 
 public class Box3 extends Box{
     public Box3(){
-        int length =10;
-        int width =10;
-        int height =10;
+         length =10;
+         width =10;
+         height =10;
     }
 
     @Override
     public String getName() {
-      return "box3";
+        return "box3";
     }
 
     public int getPrice(){

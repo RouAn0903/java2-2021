@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println("Hello world");
         //Student st = new Student("1101","Eric", 60,80);\
         //st.print();
+        /*
         Student[] sts = new Student[]{
             new Student("1101","Eric", 60,80),
                 new Student("1102","Tomy", 60,80),
@@ -16,5 +17,8 @@ public class HelloWorld {
         for (int i = 0; i < sts.length ; i++) {
             sts[i].print();
         }
+
+         */
     }
+
 }
