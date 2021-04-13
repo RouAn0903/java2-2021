@@ -1,4 +1,4 @@
-package com.ro.box;
+package com.ro.inter.box;
 
 public class Box5 extends Box{
     public Box5(){

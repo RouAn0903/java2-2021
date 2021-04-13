@@ -1,4 +1,4 @@
-package com.ro.stu;
+package com.ro.inter.stu;
 
 public abstract class Student {
     String id;

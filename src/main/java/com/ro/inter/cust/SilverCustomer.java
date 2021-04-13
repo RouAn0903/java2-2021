@@ -1,4 +1,4 @@
-package com.ro.cust;
+package com.ro.inter.cust;
 
 public class SilverCustomer extends Customer {
     float discount = 0.1f;

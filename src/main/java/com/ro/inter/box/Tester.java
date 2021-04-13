@@ -1,4 +1,4 @@
-package com.ro.box;
+package com.ro.inter.box;
 
 
 import java.util.Scanner;

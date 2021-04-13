@@ -1,4 +1,4 @@
-package com.ro.box;
+package com.ro.inter.box;
 
 public abstract class Box {
     int length;

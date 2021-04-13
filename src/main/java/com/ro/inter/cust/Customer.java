@@ -1,4 +1,4 @@
-package com.ro.cust;
+package com.ro.inter.cust;
 
 public class Customer {
     String id;

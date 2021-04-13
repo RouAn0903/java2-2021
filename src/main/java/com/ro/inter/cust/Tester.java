@@ -1,4 +1,4 @@
-package com.ro.cust;
+package com.ro.inter.cust;
 
 public class Tester {
     public static void main(String[] args) {
