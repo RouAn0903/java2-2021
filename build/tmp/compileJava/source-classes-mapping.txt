@@ -1,7 +1,9 @@
 com/ro/inter/box/Box3.java
  com.ro.inter.box.Box3
-com/ro/inter/cust/Tester.java
- com.ro.inter.cust.Tester
+com/ro/threads/Horse.java
+ com.ro.threads.Horse
+com/ro/threads/Racing.java
+ com.ro.threads.Racing
 com/ro/inter/stu/GraduateStudent.java
  com.ro.inter.stu.GraduateStudent
 com/ro/inter/box/Box.java
@@ -18,9 +20,25 @@ com/ro/inter/cust/SilverCustomer.java
  com.ro.inter.cust.SilverCustomer
 com/ro/inter/box/Tester.java
  com.ro.inter.box.Tester
+com/ro/threads/HorseRunable.java
+ com.ro.threads.HorseRunable
 com/ro/inter/box/Box5.java
  com.ro.inter.box.Box5
 com/ro/inter/cust/Customer.java
  com.ro.inter.cust.Customer
-com/ro/threads/Racing.java
- com.ro.threads.Racing
+com/ro/inter/cust/Tester.java
+ com.ro.inter.cust.Tester
+com/test/Box1.java
+ com.test.Box1
+com/test/Box4.java
+ com.test.Box4
+com/test/Box2.java
+ com.test.Box2
+com/test/Box5.java
+ com.test.Box5
+com/test/Box.java
+ com.test.Box
+com/test/Box3.java
+ com.test.Box3
+com/test/Tester.java
+ com.test.Tester
