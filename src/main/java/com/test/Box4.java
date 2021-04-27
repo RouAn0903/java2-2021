@@ -6,5 +6,6 @@ public class Box4 extends Box{
         length=15;
         width=15;
         height=15;
+        price=70;
     }
 }

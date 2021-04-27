@@ -14,8 +14,8 @@ com/ro/inter/stu/GraduateStudent.java
  com.ro.inter.stu.GraduateStudent
 com/ro/inter/box/Box.java
  com.ro.inter.box.Box
-com/ro/inter/cust/Tester.java
- com.ro.inter.cust.Tester
+com/test/Tester.java
+ com.test.Tester
 com/ro/inter/stu/Student.java
  com.ro.inter.stu.Student
 com/ro/HelloWorld.java
@@ -40,5 +40,5 @@ com/test/Box3.java
  com.test.Box3
 com/ro/inter/cust/Customer.java
  com.ro.inter.cust.Customer
-com/test/Tester.java
- com.test.Tester
+com/ro/inter/cust/Tester.java
+ com.ro.inter.cust.Tester
