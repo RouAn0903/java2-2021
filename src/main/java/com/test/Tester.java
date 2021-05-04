@@ -19,7 +19,7 @@ public class Tester {
 
         for (Box box:boxes) {
             //Box1 b1 =(Box1) box;
-           for(box.validate(length, width, height)){
+           for(box.validate(length, width, height);;){
                System.out.println(box.name+" it is, "+box.price);
                break;
 
