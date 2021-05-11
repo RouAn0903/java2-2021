@@ -5,9 +5,20 @@ import com.test.Box1;
 import com.test.Box2;
 
 import java.util.ArrayList;
+import java.util.TreeSet;
 
 public class Test {
     public static void main(String[] args) {
+        TreeSet<Integer> aa =new TreeSet<>();
+        System.out.println(aa.size());
+        aa.add(1);
+        aa.add(2);
+        aa.add(3);
+        aa.add(4);
+        System.out.println(aa.size());
+        System.out.println(aa);
+
+
         int[] nums = new int[5];
         nums[0] =3;
         //nums[3] ="Roro";
