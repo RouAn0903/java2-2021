@@ -1,8 +1,8 @@
-package com.collect;
+package com.ro.collect;
 
-import com.test.Box;
-import com.test.Box1;
-import com.test.Box2;
+import com.ro.test.Box;
+import com.ro.test.Box1;
+import com.ro.test.Box2;
 
 import java.util.ArrayList;
 import java.util.TreeSet;

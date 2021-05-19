@@ -1,4 +1,4 @@
-package com.weather;
+package com.ro.weather;
 
 public interface Reporter {
     public void print();

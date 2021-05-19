@@ -1,4 +1,4 @@
-package com.test;
+package com.ro.test;
 
 public class Box2 extends Box{
     public Box2(){

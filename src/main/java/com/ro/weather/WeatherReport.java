@@ -1,4 +1,4 @@
-package com.weather;
+package com.ro.weather;
 
 public class WeatherReport implements Reporter{
     @Override
