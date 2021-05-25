@@ -76,3 +76,7 @@ com/ro/snowing/Snowing.java
  com.ro.snowing.Snowing
 com/ro/snowing/Snow.java
  com.ro.snowing.Snow
+com/ro/car/Car.java
+ com.ro.car.Car
+com/ro/car/Tester.java
+ com.ro.car.Tester
