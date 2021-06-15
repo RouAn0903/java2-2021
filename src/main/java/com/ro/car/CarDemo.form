@@ -18,10 +18,10 @@
               <columns value="30"/>
             </properties>
           </component>
-          <component id="2e38f" class="javax.swing.JButton" binding="button1" default-binding="true">
+          <component id="cf9a" class="javax.swing.JButton" binding="button">
             <constraints/>
             <properties>
-              <text value="Button"/>
+              <text value="Search"/>
             </properties>
           </component>
         </children>

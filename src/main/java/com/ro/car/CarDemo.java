@@ -1,12 +1,13 @@
 package com.ro.car;
 
 import javax.swing.*;
+import java.util.HashMap;
 
 public class CarDemo {
     private JPanel mainPanel;
     private JPanel northPanel;
     private JTextField textField1;
-    private JButton button1;
+    private JButton button;
 
     public static void main(String[] args) {
         JFrame frame = new JFrame();
@@ -14,5 +15,8 @@ public class CarDemo {
         frame.setSize(600,400);
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         frame.setVisible(true);
+
     }
+
+
 }
